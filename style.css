@@ -1,0 +1,70 @@
+body{
+    Background: #E9ECF8;    
+}
+#logo{
+    height: 48px;
+    width: 31.085588455200195px;
+    left: 44px;
+    top: 0px;
+    border-radius: 0px;
+
+    color: #0A3871
+    }
+
+main{
+    color: #0A3871;
+}
+#disclaimer{
+    color: #495057;
+}
+main button{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 24px;
+    gap: 8px;
+    
+    width: 328px;
+    height: 67px;
+    border-radius: 24px; 
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    flex: none;
+    order: 0;
+    flex-grow: 1;
+}
+main button p{
+    align-self: center;
+    padding: 37%;
+}
+#Encriptar{
+    background: #0A3871;
+    color: #D8DFE8;
+    border-color: #D8DFE8 ;
+}
+#Desencriptar{
+    background: #D8DFE8;
+    color: #0A3871;
+    border-color: #0A3871;  
+}
+#munheco{
+    align-items: end;
+    height: 100%;
+    width: 400px;
+    left: 1000px;
+    top: 40px;
+    border-radius: 32px;
+    background: white;
+}
+
+footer{
+    background-color: #0A3871;
+}
+
